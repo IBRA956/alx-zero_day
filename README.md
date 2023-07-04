@@ -1,1 +1,4 @@
-My first readme
+My first readme 
+* task 4:
+ * echo" git pull
+  
